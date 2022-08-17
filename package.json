@@ -1,0 +1,23 @@
+{
+  "name": "demetra-natours",
+  "version": "1.0.0",
+  "description": "A landing page for Demetra Natours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitryDoroshko/demetra-natours.git"
+  },
+  "keywords": [
+    "landing",
+    "layout"
+  ],
+  "author": "dmitry.doroshko.99@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitryDoroshko/demetra-natours/issues"
+  },
+  "homepage": "https://github.com/DmitryDoroshko/demetra-natours#readme"
+}
